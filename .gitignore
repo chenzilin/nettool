@@ -1,0 +1,5 @@
+*.user
+temp/
+Makefile
+bin/nettool
+.qmake.stash
